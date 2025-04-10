@@ -1,1 +1,2 @@
 This is information page.
+Notification of email settings added.
