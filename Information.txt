@@ -2,3 +2,4 @@ This is information page.
 Notification of email settings added.
 Editing for github auto build demo.
 Editing file to check auto build feature in jenkins.
+Checking again for auto build feature in jenkins.
